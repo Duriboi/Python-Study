@@ -1,0 +1,20 @@
+def sum():
+    return a+b
+
+def sub():
+    return a-b
+
+def mul():
+    return a*b
+
+def div():
+    return a/b
+
+a=int(input('첫번째 수:'))
+b=int(input('두번째 수:'))
+
+print(f'{a}+{b}= {sum()}')
+print(f'{a}-{b}= {sub()}')
+print(f'{a}*{b}= {mul()}')
+print(f'{a}/{b}= {div()}')
+print(f'{a}//{b}= {a//b}')
