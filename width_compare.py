@@ -37,4 +37,5 @@ elif area1 < area2:
     print("두 번째 도형이 더 넓습니다.")
 else:
     print("두 도형의 넓이가 같습니다.")
-    
+
+# duriboi
