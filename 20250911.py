@@ -1,3 +1,18 @@
-name = input('이름')
-age = input('나이')
-print(name, age) 
+a=3
+print(a)
+a+=3
+print(a)
+a+=3
+print(a)
+a+=3
+print(a)
+a+=3
+print(a)
+a+=3
+print(a)
+a+=3
+print(a)
+a+=3
+print(a)
+a+=3
+print(a)
