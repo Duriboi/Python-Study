@@ -14,4 +14,3 @@ if choice == 1:
 else:
     c = float(input("섭씨 온도:"))
     print(f"화씨 온도: {hwa_to_sub():.2f}")
-1
