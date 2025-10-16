@@ -11,4 +11,4 @@ while True:
 
 for k, v in blood.items():
     print(k, v)
-
+    print(1)
